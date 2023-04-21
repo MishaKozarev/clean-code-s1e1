@@ -75,7 +75,8 @@
 
 /* Heading */
 .task-todo__title,
-.task-add__label {
+.task-add__label,
+.task-completed__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
